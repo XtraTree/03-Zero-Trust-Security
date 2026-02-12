@@ -375,10 +375,10 @@ Doctor = attributes
 **This repo answers: 🎯 HOW to use identity as the security perimeter**
 
 **Defense-in-Depth Layers**:
-- 📍 [REPO 1: Where workloads run](../01-Hybrid-Multi-Cloud-Blueprints) → Deployment
-- 🛡️ [REPO 2: How network is secured](../02-Network-Modernization) → Network-layer
+- 📍 [REPO 1: Where workloads run](https://github.com/XtraTree/01-Hybrid-Multi-Cloud-Blueprints) → Deployment
+- 🛡️ [REPO 2: How network is secured](https://github.com/XtraTree/02-Network-Modernization) → Network-layer
 - **🔐 REPO 3: How identity is verified** → This repo (identity-layer)
-- ⚖️ [REPO 4: How policies are enforced](../04-Cloud-Native-Governance) → Governance
+- ⚖️ [REPO 4: How policies are enforced](https://github.com/XtraTree/04-Cloud-Native-Governance) → Governance
 
 **Example**: Healthcare system
 1. REPO 1: Choose hybrid (on-prem EHR + AWS)
@@ -406,7 +406,7 @@ Doctor = attributes
 **If you're starting zero-trust** 🔑:
 1. 👆 Read [Basic Zero-Trust Pattern](#pattern-1️⃣-basic-zero-trust-authentication-only-)
 2. 📚 See [IMPLEMENTATION/](./IMPLEMENTATION/) for getting started
-3. 🔗 Link to [REPO 2 Network](../02-Network-Modernization) for network layer
+3. 🔗 Link to [REPO 2 Network](https://github.com/XtraTree/02-Network-Modernization) for network layer
 
 </div>
 
@@ -425,7 +425,7 @@ Doctor = attributes
 1. 👆 Read [Full Zero-Trust Pattern](#pattern-3️⃣-full-zero-trust-cryptographic-trust-)
 2. 📚 See [Healthcare Case Study](./CASE_STUDIES/healthcare.md) for HIPAA
 3. 📊 See Finance case study for PCI-DSS
-4. 🔗 Link to [REPO 4 Governance](../04-Cloud-Native-Governance) for automation
+4. 🔗 Link to [REPO 4 Governance](https://github.com/XtraTree/04-Cloud-Native-Governance) for automation
 
 </div>
 
@@ -433,7 +433,7 @@ Doctor = attributes
 
 **If you want integrated architecture** 🔗:
 1. 🔗 See [How This Repo Connects](#-how-this-repo-connects-to-the-other-repos)
-2. 🛡️ Jump to [REPO 2](../02-Network-Modernization) or ⚖️ [REPO 4](../04-Cloud-Native-Governance)
+2. 🛡️ Jump to [REPO 2](https://github.com/XtraTree/02-Network-Modernization) or ⚖️ [REPO 4](https://github.com/XtraTree/04-Cloud-Native-Governance)
 
 </div>
 
