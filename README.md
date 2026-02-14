@@ -442,7 +442,8 @@ B Grants/Denies
 - ✅ How do we transition from legacy auth to zero-trust?
 
 ---
-
+🛡️ Jump to [REPO 1](https://github.com/XtraTree/01-Hybrid-Multi-Cloud-Blueprints), [REPO 2](https://github.com/XtraTree/02-Network-Modernization) or [REPO 4](https://github.com/XtraTree/04-Cloud-Native-Governance)
+---
 ## 🤝 Contributing
 
 Found an issue? Want to share a pattern?
