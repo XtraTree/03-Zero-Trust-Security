@@ -4,7 +4,6 @@
 
 [![Security](https://img.shields.io/badge/Security-Zero%20Trust-red)](.)
 [![Identity](https://img.shields.io/badge/Identity-Centric-orange)](.)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](.)
 
 ---
